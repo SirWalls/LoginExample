@@ -1,0 +1,12 @@
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\bin\Debug\netstandard2.0\LoginExample.deps.json
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\bin\Debug\netstandard2.0\LoginExample.dll
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\bin\Debug\netstandard2.0\LoginExample.pdb
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\obj\Debug\netstandard2.0\Views\UserPage.xaml.g.cs
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\obj\Debug\netstandard2.0\LoginExample.csproj.CoreCompileInputs.cache
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\obj\Debug\netstandard2.0\LoginExample.AssemblyInfoInputs.cache
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\obj\Debug\netstandard2.0\LoginExample.AssemblyInfo.cs
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\obj\Debug\netstandard2.0\LoginExample.dll
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample\obj\Debug\netstandard2.0\LoginExample.pdb

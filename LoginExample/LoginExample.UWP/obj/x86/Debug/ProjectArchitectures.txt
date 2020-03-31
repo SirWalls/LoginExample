@@ -1,0 +1,1 @@
+C:\Users\MAD-INF-087\source\repos\LoginExample\LoginExample\LoginExample.UWP\LoginExample.UWP.csproj;x86

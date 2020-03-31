@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginExample.LoginPage">
+    <ContentPage.Content>
+        <StackLayout
+            Padding="30,50">
+            <Label
+                Text="INICIAR SESIÓN"
+                FontSize="25"
+                Margin="30"
+                HorizontalOptions="Center"
+                FontAttributes="Bold">
+            </Label>
+            <Label
+                Text="Usuario:"
+                FontSize="Large"
+                FontAttributes="Bold">
+            </Label>
+            <Entry
+                Text="{Binding User}"
+                Placeholder="Usuario"
+                WidthRequest="70">
+            </Entry>
+            <Label
+                Text="Contraseña:"
+                FontSize="Large"
+                FontAttributes="Bold">
+            </Label>
+            <Entry
+                Text="{Binding Password}"
+                Placeholder="Contraseña"
+                IsPassword="True">
+            </Entry>
+            <Button
+                Command="{Binding LoginCommand}"
+                Text="Iniciar sesión"
+                BorderRadius="25"
+                TextColor="{StaticResource BtnSuccessFontColor}"
+                BackgroundColor="{StaticResource BtnSuccessBackgroundColor}"
+                HorizontalOptions="Center"
+                VerticalOptions="Center">
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
